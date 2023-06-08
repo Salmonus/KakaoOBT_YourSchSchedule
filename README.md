@@ -1,7 +1,7 @@
 # KakaoOBT_YourSchSchedule
 This is a Kakaotalk OBT Chatbot Skill Server that sends school schedule json in a carousel form.
 
-![Alt Text](image.JPG)
+![Message Example](image.JPG)
 
 # Kakao School Schedule Bot
 
