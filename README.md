@@ -1,6 +1,8 @@
 # KakaoOBT_YourSchSchedule
 This is a Kakaotalk OBT Chatbot Skill Server that sends school schedule json in a carousel form.
 
+![Alt Text](image.JPG)
+
 # Kakao School Schedule Bot
 
 This project is a backend server for the KakaoOBT chatbot. It provides school schedules (for South Korean schools) through a simple chat interface.
